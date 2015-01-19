@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Native.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Flavius's iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="33" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

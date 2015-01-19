@@ -1,0 +1,4 @@
+/Users/flavius.demian/Projects/Xamarin.iOS.NativeCall/Native/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/flavius.demian/Projects/Xamarin.iOS.NativeCall/Native/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/flavius.demian/Projects/Xamarin.iOS.NativeCall/Native/obj/iPhone/Debug/mtouch-cache/64/Link/Native.exe
+/Users/flavius.demian/Projects/Xamarin.iOS.NativeCall/Native/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
